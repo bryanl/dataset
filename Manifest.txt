@@ -11,6 +11,7 @@ lib/dataset/database/postgresql.rb
 lib/dataset/database/sqlite3.rb
 lib/dataset/extensions/rspec.rb
 lib/dataset/extensions/test_unit.rb
+lib/dataset/instance_methods.rb
 lib/dataset/load.rb
 lib/dataset/record/fixture.rb
 lib/dataset/record/meta.rb
